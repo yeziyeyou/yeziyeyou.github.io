@@ -10,8 +10,8 @@ $(function(){
         preload: 'auto',
         volume: 0.7,
         mutex: true,
-        listFolded: true,
-        listMaxHeight: 990,
+        listFolded: false,
+        listMaxHeight: 90,
         lrcType: 3,
         audio: data
     });

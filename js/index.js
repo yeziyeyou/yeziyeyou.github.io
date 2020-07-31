@@ -11,7 +11,7 @@ $(function(){
         volume: 0.7,
         mutex: true,
         listFolded: true,
-        //listMaxHeight: 90,
+        listMaxHeight: 990,
         lrcType: 3,
         audio: data
     });
